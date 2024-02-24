@@ -1,3 +1,9 @@
+# A simple signup and login page has been developed
+You can signup using email-password or Gmail
+If signed up using email-password, you need to use them again in login page. For Gmail signup, it is not required to do so.
+Frontend is developed using React.js and Tailwind CSS. Authentication and authorisation is done using Firebase
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
